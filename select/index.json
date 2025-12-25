@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "生きてることが辛いなら",
+  "base_artist": "森山直太朗",
+  "createdAt": "2025-12-25T05:19:50.119994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "生きてることが辛いなら",
+      "artist": "森山直太朗",
+      "has_synced": true,
+      "path": "select/01_生きてることが辛いなら_森山直太朗.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "生きてることが辛いなら - Ikiterukotogatsurainara",
+      "artist": "Naotaro Moriyama",
+      "has_synced": false,
+      "path": "select/02_生きてることが辛いなら_-_Ikiterukotogatsurainara_Naotaro_Moriyama.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生きてることが辛いなら",
+      "artist": "森山 直太朗",
+      "has_synced": false,
+      "path": "select/pl_01_生きてることが辛いなら_森山_直太朗.txt"
+    }
+  ]
+}
